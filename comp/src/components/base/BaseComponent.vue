@@ -9,8 +9,8 @@
 export default {
   name: "base-component",
   props: {
-    message: undefined,
-  },
+    message: undefined
+  }
 };
 </script>
 

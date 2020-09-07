@@ -14,7 +14,7 @@ import BaseComponent from "@/components/base/BaseComponent.vue";
 export default {
   name: "cool-component",
   components: {
-    BaseComponent,
-  },
+    BaseComponent
+  }
 };
 </script>
